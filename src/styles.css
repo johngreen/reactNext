@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+label{
+  width:10%;
+  margin:3px;
+}
